@@ -1,0 +1,35 @@
+{
+  "name": "Internet-of-Things-IoT-Starter-Kit",
+  "version": "1.0.0",
+  "description": "An iot starter kit using Node.js, MongoDB and Express",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://Vheissu@github.com/Vheissu/Internet-of-Things-IoT-Starter-Kit.git"
+  },
+  "keywords": [
+    "iot",
+    "node.js",
+    "express",
+    "mongodb",
+    "skeleton"
+  ],
+  "author": "Dwayne Charrington",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Vheissu/Internet-of-Things-IoT-Starter-Kit/issues"
+  },
+  "homepage": "https://github.com/Vheissu/Internet-of-Things-IoT-Starter-Kit",
+  "dependencies": {
+    "body-parser": "^1.13.3",
+    "cookie-parser": "^1.3.5",
+    "ejs": "^2.3.3",
+    "express": "^4.13.3",
+    "mongodb": "^2.0.39",
+    "monk": "^1.0.1",
+    "morgan": "^1.6.1"
+  }
+}
